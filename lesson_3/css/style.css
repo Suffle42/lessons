@@ -3,55 +3,54 @@
 /* ----------------- */
 @import url("reset.css");
 
-h1 {
-	color: rgb(243, 132, 6);
-}
-
 a {
-	color: rgb(4, 118, 126);
-} 
-
-h2,
-h3,
-h4 {
 color: blue;
 }
 
-.text1 p {
-	color: rgb(84, 163, 6);
+div {
+	color: aqua;
 }
 
-.vstup ~ p {
+.text {
+	color: brown;
+}
+
+h1 {
 	color: crimson;
 }
 
-.text2 > p  {
-	color: rgb(163, 197, 9);
+#p-1,
+#p-2,
+#p-3,
+#p-4 {
+	color: chocolate;
 }
 
-.g1 * {
-	color: rgb(20, 105, 105);
+div.text1 {
+	color: darkmagenta;
 }
 
-div {
-	color: rgb(75, 14, 189);
+.text2 p {
+	color: rgb(8, 158, 13);
 }
-div.g3 {
-	color: dodgerblue;
-}
-
-.g4  {
-	color: darkorange;
+	
+.text3 > p {
+	color: darkslateblue;
 }
 
-.text3 .list {
-	color: maroon;
+.g1 * { 
+	color: rgb(6, 77, 171);
 }
 
-.text4 + p {
-	color: greenyellow;
+.g2 .lesson {
+	color: darkslategrey;
 }
 
-.text4.pers {
-	color: rgb(3, 234, 241);
+.glava2 + p {
+	color: deeppink;
 }
+
+.glava3 ~ p {
+	color: indianred;
+}
+
