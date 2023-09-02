@@ -35,14 +35,13 @@ body {
 	font-weight: 300;
 	font-size: 14px;
 	color: #6C757D;	
-	max-width: 1270px;
-	margin: 0 auto;
-	padding-left: 15px;
-	padding-right: 15px;
+	
 	
 } 
 
-.pading{
+.allblock{
+	max-width: 1240px;
+	margin: 0 auto;
 	padding-top: 60px;
 	padding-bottom: 60px;
 }
@@ -50,8 +49,8 @@ body {
 .title-1 {
 	font-weight: 700;
 	font-size: 25px;
-    	line-height: 1.6;
-    	color: #212529;
+    line-height: 1.6;
+    color: #212529;
 	margin-bottom: 40px;
 	margin-left: 212px;
 	margin-top: 115px;
@@ -88,11 +87,11 @@ p {
 }
 
 .picture-2 {
+	min-width: 100%;
 	display: inline-block;
 	margin-bottom: 80px;
 }
 
 .woman {
-	display: inline-block;
 	margin-right: 15px;
 }
