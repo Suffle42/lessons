@@ -49,9 +49,9 @@ body {
 
 .title-1 {
 	font-weight: 700;
-    font-size: 25px;
-    line-height: 1.6;
-    color: #212529;
+	font-size: 25px;
+    	line-height: 1.6;
+    	color: #212529;
 	margin-bottom: 40px;
 	margin-left: 212px;
 	margin-top: 115px;
@@ -79,20 +79,20 @@ p {
 
 .title-2 {
 	font-weight: 700;
-		font-size: 25px;
-		line-height: 1.6;
-		color: #212529;
-		max-width: 605px;
-		margin-bottom: 40px;
-		margin-left: 212px;
+	font-size: 25px;
+	line-height: 1.6;
+	color: #212529;
+	max-width: 605px;
+	margin-bottom: 40px;
+	margin-left: 212px;
 }
 
 .picture-2 {
-display: inline-block;
+	display: inline-block;
 	margin-bottom: 80px;
 }
 
 .woman {
-display: inline-block;
-margin-right: 15px;
+	display: inline-block;
+	margin-right: 15px;
 }
