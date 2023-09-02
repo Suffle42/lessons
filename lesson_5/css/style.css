@@ -32,22 +32,27 @@
 
 body {
 	font-family: 'Poppins', sans-serif;
-	font-style: normal;
 	font-weight: 300;
 	font-size: 14px;
-	line-height: 1.8;
 	color: #6C757D;	
+	max-width: 1270px;
+	margin: 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
 } 
 
+
+.pading{
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
 .title-1 {
-font-weight: 700;
+	font-weight: 700;
     font-size: 25px;
     line-height: 1.6;
     color: #212529;
-    max-width: 400px;
-	margin-left: 312px;
-	margin-top: 115px;
 	margin-bottom: 40px;
+	margin-left: 212px;
 }
 
 p {
@@ -58,18 +63,15 @@ p {
 .text1,
 .text2,
 .text3  {
-	font-weight: 300;
+	margin: 0 auto;
 	line-height: 25px;
 	max-width: 816px;
-	margin: 0 auto;
-	margin-left: 312px;
-	padding-bottom: 80px;
+	margin-bottom: 80px;
 }
 
 .picture-1 {
 	display: block;
 	max-width: 100%;
-	margin: 0 100px 0 100px;
 	margin-bottom: 80px;
 }
 
@@ -80,16 +82,15 @@ p {
 		color: #212529;
 		max-width: 605px;
 		margin-bottom: 40px;
-		margin-left: 312px;
+		margin-left: 212px;
 }
 
 .picture-2 {
-	display: block;
+display: inline-block;
 	margin-bottom: 80px;
-	margin-left: 100px;
 }
 
 .woman {
-	margin: 0 auto;
-	margin-right: 30px;
+display: inline-block;
+margin-right: 15px;
 }
